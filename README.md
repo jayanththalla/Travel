@@ -27,7 +27,8 @@ An elegant and user-friendly travel website designed to inspire and assist users
 
 ## 🖼️ Screenshots
 
-*(Include screenshots or mockups for a visual overview)*
+![image](https://github.com/user-attachments/assets/1f1563c0-5ea8-4891-8df6-07291357a860)
+
 
 ---
 
